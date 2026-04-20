@@ -1,4 +1,4 @@
-# Smart Health Monitoring System — PCB Edition
+# Health Monitoring System — PCB Edition
 
 An IoT-based health monitoring system built on a custom PCB with onboard power regulation, real-time body temperature and pulse sensing, and live data display via a 16×2 LCD with I2C module. Sensor data is pushed to Arduino IoT Cloud for remote monitoring, with live readings accessible from anywhere via the Arduino IoT Remote app on Android and iOS.
 
@@ -9,10 +9,10 @@ An IoT-based health monitoring system built on a custom PCB with onboard power r
 <table>
   <tr>
     <td align="left">
-      <img src="https://github.com/iprince10/Smart_Health_Monitoring_System/blob/main/Health_Monitoring_System.jpeg" width="400">
+      <img src="https://github.com/iprince10/Health_Monitoring_System/blob/main/Health_Monitoring_System.jpeg" width="400">
     </td>
     <td align="right">
-      <img src="https://github.com/iprince10/Smart_Health_Monitoring_System/blob/main/Health_Monitoring_System_Dashboard.png" width="400">
+      <img src="https://github.com/iprince10/Health_Monitoring_System/blob/main/Health_Monitoring_System_Dashboard.png" width="400">
     </td>
   </tr>
 </table>
